@@ -11,15 +11,15 @@ In terms of representing the display it is fine to print what the display shows 
 
 So for example if we were scrolling the message "Hello world!" then our first display would be nine spaces followed by the letter H, namely:
 
-`         H`
+`_________H`
 
 The second step would be eight spaces and the letters "He".
 
-`        He`
+`________He`
 
 The last step in the display would be the exclamation mark and nine spaces:
 
-`!         `
+`!_________`
 
 ## Implement an infinite message
 
@@ -29,4 +29,4 @@ We would like the number of spaces between the last and first characters in the 
 
 So if we set the number of spaces to be three then the first looped message will look like this:
 
-`World!   H`
+`World!___H`

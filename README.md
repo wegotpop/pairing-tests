@@ -1,12 +1,10 @@
-# Guardian pairing tests
+# We Got POP pairing tests
 
-This repo contains the pairing test exercises that are used in the Guardian recruitment process.
+This repo contains the pairing test exercises that are used in our recruitment process.
 
-[Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
+## Origin of these tests
 
-Inspired to [work for us](http://developers.theguardian.com/join-the-team.html)?
-
-Interviewers, please read the [guidelines](https://docs.google.com/document/d/1DegP-3YBTzJoM3tLuo-yenZjDqfFRTOW2zozXBzdnTE).
+This is a fork of the Guardian's pairing tests with some new challenges added that reflect the problems POP encounters in building a platform to help create better content more easily and fairly.
 
 ## License
 

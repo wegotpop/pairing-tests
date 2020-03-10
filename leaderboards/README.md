@@ -12,7 +12,9 @@ You can either implement this a service or try and implement a UI to demonstrate
 
 If multiple players share the same score we should order the entries according to who recorded the score first. Players with the same score should share the same position on the leaderboard though.
 
-Position numbering after a tie should reflect the number of people who have scored higher than the score. As a simple example if A has scored 5; B, C and D have scored 4 and E has scored 2 then the positions should be 1, 2, 2, 2, 5.
+Position numbering after a tie should reflect the number of people who have scored higher than the score.
+
+As a simple example if A has scored 5; B, C and D have scored 4 and E and F have scored 2, G has scored 1 while H has zero then the positions should be 1, 2, 2, 2, 5, 5, 7, 8.
 
 ## Leagues
 

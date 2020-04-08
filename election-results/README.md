@@ -9,7 +9,7 @@ The fields in the file will be separated by commas but each row will vary in len
 A result will consist of:
 
 1. A constituency
-2. A repeating set of pairs with the party code and the votes cast
+2. A repeating set of pairs with the votes cast and the party code
 
 So for example:
 

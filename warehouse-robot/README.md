@@ -4,16 +4,16 @@ We have installed a robot in our warehouse and now we need to be able to send it
 
 For convenience the robot moves along a grid in the roof of the warehouse and we have made sure that all of our warehouses are built so that the dimensions of the grid are 10 by 10. We've also made sure that all our warehouses are aligned along north-south and east-west axes.
 
-All of the commands to the robot consist of a single capital letter and different commands are dilineated by whitespace.
+All of the commands to the robot consist of a single capital letter and multiple commands can be given as a whitespace-separated string.
 
 ## Part One
 
 The robot should accept the following commands:
 
-* N move north
-* W move west
-* E move east
-* S move south
+* `N` that moves north
+* `W` that moves west
+* `E` that moves east
+* `S` that moves south
 
 ### Example command sequences
 

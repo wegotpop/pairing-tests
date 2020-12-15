@@ -1,5 +1,6 @@
-Scrabble
---------
+# Scrabble
+
+We want to simulate a round of [Scrabble](https://en.wikipedia.org/wiki/Scrabble). The program will extracts some random tiles from the full set and attempt to create words, computing the score and trying to maximise it. There is no simulation of the board and of the actual scoring through it but for the final requirement.
 
 * [Calculate the score](https://en.wikibooks.org/wiki/Scrabble/Rules#Scoring) for a word (you may ignore double/triple letter/word scores).
 * Assign seven tiles chosen randomly from the english alphabet to a rack.

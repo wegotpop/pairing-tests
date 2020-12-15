@@ -6,7 +6,7 @@ Create a simple leaderboard model and add some scores to it. The leaderboard sho
 
 If a player adds a new score only their highest score should be recorded.
 
-You can either implement this a service or try and implement a UI to demonstrate the functionality. The choice is yours.
+You can either implement this as a service or try and implement a UI to demonstrate the functionality. The choice is yours.
 
 ## Dealing with ties
 

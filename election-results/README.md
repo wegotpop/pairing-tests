@@ -22,6 +22,8 @@ We want to transform this into a standard result that shows:
 * translates the party code into a full name
 * shows the share of the vote as a percentage of all the votes cast
 
+The result should be sorted according based on the number of votes, starting with the party with the most votes.
+
 ### Codes
 
 * C - Conservative Party

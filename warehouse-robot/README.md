@@ -41,7 +41,7 @@ Extend the robot's commands to include the following:
 
 There are some rules about moving crates:
 
-* The robot should not try and lift a crate if it already lifting one
+* The robot should not try to lift a crate if it is already lifting one
 * The robot should not lift a crate if there is not one present
 * The robot should not drop a crate on another crate!
 

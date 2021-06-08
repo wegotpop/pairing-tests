@@ -5,7 +5,7 @@ We want to create the software that controls a display that scrolls messages to 
 
 ## Implement a scrolling message
 
-We want to pass a message to the display, if the message fits in the display it should just show it. However if it longer than the display we want it to "scroll" the visible part of the message on the display.
+We want to pass a message to the display, if the message fits in the display it should just show it. However if it is longer than the display we want it to "scroll" the visible part of the message on the display.
 
 In terms of representing the display it is fine to print what the display shows to `stdout`.
 
